@@ -59,15 +59,15 @@ const simple = require('./F3/simple.js')
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-let botname = 'Kunz Botz' //NAMA BOT
+let botname = 'Abbas Botz' //NAMA BOT
 let zerokey =  'ZeroYT7' //BIARIN AE:V
 let lolkey = 'KurrXd' // FREE APIKEY NYOLONG DARI KURR:v
 let zekskey = 'Nekonimastah' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
-let ownername = 'KunzxD' //NAMA OWNER
-let owner = '6287778886786' // NOMOR OWNER
+let ownername = 'Abbas' //NAMA OWNER
+let owner = '628995820020' // NOMOR OWNER
 let bold = '*' 
 let petik = '```'
-let faketeks = `_Neo Bot By KunzxD_` 
+let faketeks = `_Neo Bot By Abbas_` 
 
 banChats = true; 
 readGc = true; 
@@ -114,8 +114,8 @@ const args = body.trim().split(/ +/).slice(1)
 const isCmd = body.startsWith(prefix)
 const q = args.join(' ')
 const Verived = "0@s.whatsapp.net"
-const zer = "6285157740529@s.whatsapp.net"
-const kuz = "6287778886786@s.whatsapp.net"
+const zer = "628995820020@s.whatsapp.net"
+const kuz = "628995820020@s.whatsapp.net"
 const txt = mek.message.conversation
 const botNumber = zeroyt7.user.jid
 const ownerNumber = [`${owner}@s.whatsapp.net`, `6283862323152@s.whatsapp.net`, `6287778886786@s.whatsapp.net`]
